@@ -1,4 +1,4 @@
-Sitemap: http://blog.penso.info/sitemap.xml
+Sitemap: http://gloriouslyawkwardlife.com/sitemap.xml
 
 User-agent: *
 Disallow: /img/

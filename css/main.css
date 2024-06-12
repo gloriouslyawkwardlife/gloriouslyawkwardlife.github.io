@@ -3,7 +3,7 @@
 				padding-top: 20px;
 				padding-bottom: 40px;
 				color: #444;
-				font: 16px/1.5 "Roboto Slab", 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+				font: 16px/1.5 "Roboto", 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 			}
 			.header {
 				font-size: 1.0em;
@@ -72,7 +72,7 @@
 				font-size: 1.6em;
 			}
 			blockquote {
-				font: 400 20px/30px "Vollkorn";
+				font: 400 20px/30px "Roboto";
 				font-style: italic;
 				border-left: 4px solid #CCC;
 				padding: 10px 0px 1px 15px;
@@ -94,7 +94,7 @@
 			}
 			cite, cite a {
 				color: #c90707;
-				font: 400 1.0em/1.2em "Vollkorn";
+				font: 400 1.0em/1.2em "Roboto";
 				font-style: italic;
 			}
 
@@ -149,7 +149,7 @@
 				margin-bottom: 1em;
 			}
 			#footer {
-				font-family: 'Fjalla One';
+				font-family: 'Roboto';
 				border-top: solid 1px #ccc;
 				font-size: 0.9em;
 				margin-top: 1em;
