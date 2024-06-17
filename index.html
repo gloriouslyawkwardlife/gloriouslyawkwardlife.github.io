@@ -3,36 +3,50 @@ layout: default
 description: Steven Watson Buehler's Home on the Interwebz
 ---
 
+<p>
+  <strong>Hi,</strong> and welcome to my domain on the Interwebz. I'm a <a href="https://powerbi.microsoft.com">Microsoft Power BI</a> developer between the hours of 7 AM and
+  3 PM Monday through Friday (unless on vacation) for <a href="https://workcompauto.optum.com">Optum Workers' Comp</a>, and a Disney World, Mac, and 3D printing junkie the rest of the time.
+</p>
+<p>Most importantly, I consider myself a follower of Jesus Christ. I'm a partner with <a href="https://44life.com">Celebration Community Church</a> in nearby Celebration.</p>
+<p>Note that the views and opinions expressed herein are entirely my own, unless expressly attributed.</p>
+<p>What is this place, you ask? Just a repository of my <a href="https://youtube.com/@gloriouslyawkwardlife">YouTube
+    videos and broadcasts</a>, writings, musings,
+  daily personal analytics, and anything else I may think of throwing in here.</p>
+  <p>Feel free to wander, read some stuff, and have fun.</p>
+
+
 <div itemscope itemtype="http://schema.org/Blog">
   {% for post in site.posts limit:20%}
-    {% unless post.next %}
-		<h3 class="date_title">{{ post.date | date: '%Y' }}</h3>
-      <ul class="this posts">
+  {% unless post.next %}
+  <h3 class="date_title">{{ post.date | date: '%Y' }}</h3>
+  <ul class="this posts">
     {% else %}
-      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-      {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-      {% if year != nyear %}
-        </ul>
-        <h3 class="date_title">{{ post.date | date: '%Y' }}</h3>
-        <ul class="past posts">
-      {% endif %}
+    {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+    {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+    {% if year != nyear %}
+  </ul>
+  <h3 class="date_title">{{ post.date | date: '%Y' }}</h3>
+  <ul class="past posts">
+    {% endif %}
     {% endunless %}
 
-		<li>
-		<article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
-		<div class="pull-right post_tags hidden-phone">
-			{{ post.categories | join: ', '}}
-		</div>
-		<time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date:"%d %b" }}</time>
-		›
-		<span itemprop="name"><a href="{{ post.url }}" itemprop="url" style="font-family: 'Roboto Condensed'">{{ post.title | truncate: 80}}</a></span>
-		</article>
-		</li>
+    <li>
+      <article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+        <div class="pull-right post_tags hidden-phone">
+          {{ post.categories | join: ', '}}
+        </div>
+        <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date:"%d %b"
+          }}</time>
+        ›
+        <span itemprop="name"><a href="{{ post.url }}" itemprop="url" style="font-family: 'Roboto Condensed'">{{
+            post.title | truncate: 80}}</a></span>
+      </article>
+    </li>
 
-  {% endfor %}
-</ul>
+    {% endfor %}
+  </ul>
 </div>
 
 <div class="archive_title">
-	<h3><a href="/archive.html">Archive</a></h3>
+  <h3><a href="/archive.html">Archive</a></h3>
 </div>
