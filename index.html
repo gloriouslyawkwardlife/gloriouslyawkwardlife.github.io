@@ -3,13 +3,6 @@ layout: default
 description: Steven Watson Buehler's Home on the Interwebz
 ---
 
-<!-- <p>
-Glad you found me. I'm a Senior Software Engineer, <a
-	href="http://www.fabienpenso.com">a photographer</a>, and I love traveling. I'm
-always busy on various projects, usually using iOS and Ruby on Rails, and I'm
-available for you. This is my blog.
-</p> -->
-
 <div itemscope itemtype="http://schema.org/Blog">
   {% for post in site.posts limit:20%}
     {% unless post.next %}
@@ -32,7 +25,7 @@ available for you. This is my blog.
 		</div>
 		<time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date:"%d %b" }}</time>
 		›
-		<span itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></span>
+		<span itemprop="name"><a href="{{ post.url }}" itemprop="url" style="font-family: 'Roboto Condensed'">{{ post.title | truncate: 80}}</a></span>
 		</article>
 		</li>
 
