@@ -28,7 +28,6 @@ twitter_username: gloriouslyawkwd
 github_username:  gloriouslyawkwardlife
 
 # Build settings
-theme: penso
 plugins:
   - jekyll-feed
 
