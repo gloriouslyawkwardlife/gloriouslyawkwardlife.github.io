@@ -54,7 +54,7 @@
 	<meta content="{{ page.content | strip_html | truncate: 300 | strip_newlines_with_space | escape }}"
 		property="og:description" />
 	<meta property="twitter:description"
-		content="{{ page.content | strip_html | truncate: 200 | | strip_newlines_with_space | escape }}" />
+		content="{{ page.content | strip_html | truncate: 200 | strip_newlines_with_space | escape }}" />
 	{% else %}
 	<meta content="{{ site.description | escape }}" property="og:description" />
 	<meta property="twitter:description" content="{{ site.description | escape }}" />
@@ -103,19 +103,21 @@
 			<div class="pull-right nolinkcolor header">
 				<ul class="nav nav-pills">
 					{% for node in site.toplinks %}
-					{% capture node_name %}/{{ node }}.html{% endcapture %}
+					{% capture node_name %}/{{ node }}{% endcapture %}
 					{% if node_name == page.url %}
-					<li class="active"><a href="/{{node}}.html" class="active">{{node | capitalize}}</a></li>
+					<li class="active"><a href="/{{node}}" class="active">{{node | capitalize}}</a></li>
 					{% else %}
-					<li><a href="/{{node}}.html">{{node | capitalize}}</a></li>
+					<li><a href="/{{node}}">{{node | capitalize}}</a></li>
 					{% endif %}
 					{% endfor %}
 				</ul>
 			</div>
 			<ul class="nav nav-pills nolinkcolor header hidden-phone">
 				<li>
-					<a href="/"><i class="icon-home"></i> Home</a>
+					<a href="/"><i class="fa-solid fa-house"></i> Home</a>
 				</li>
+				<li><a href="/about"><i class="fa-solid fa-person"></i> About</a></li>
+				<li><a href="/contact"><i class="fa-solid fa-address-card"></i> Contact</a></li>
 			</ul>
 		</div>
 		<div class="clearfix"></div>
