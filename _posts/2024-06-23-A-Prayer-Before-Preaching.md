@@ -2,7 +2,7 @@
 title: A Prayer Before Preaching
 author: Steven Buehler
 date: 2024-06-23
-categories: Poetry & Writings
+categories: "Poetry & Writings"
 ---
 
 My Lord,  
