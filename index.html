@@ -42,8 +42,7 @@ description: Steven Watson Buehler's Home on the Interwebz
         </div>
         <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date:"%d %b"
           }}</time>
-        ›
-        <span itemprop="name"><a href="{{ post.url }}" itemprop="url" style="font-family: 'Roboto Condensed'">{{
+        <span itemprop="name"><a href="{{ post.url }}" itemprop="url" style="font-family: 'Roboto Condensed'; text-indent: 20% hanging;">{{
             post.title | truncate: 70}}</a></span>
       </article>
     </li>
