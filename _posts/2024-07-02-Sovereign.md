@@ -3,7 +3,7 @@ layout: post
 title: Because God is Sovereign&hellip;
 author: Steven Buehler
 date: 2024-06-30T21:20:00-04:00
-categories: "Poetry & Writings"
+categories: ["Poetry & Writings"]
 ---
 
 Because God is sovereign  
