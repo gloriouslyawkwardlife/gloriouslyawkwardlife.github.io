@@ -21,7 +21,7 @@ description: Steven Watson Buehler's Home on the Interwebz
 
 
 <div itemscope itemtype="http://schema.org/Blog">
-  {% for post in site.posts limit:20%}
+  {% for post in site.posts %}
   {% unless post.next %}
   <h3 class="date_title">{{ post.date | date: '%Y' }}</h3>
   <ul class="this posts">
