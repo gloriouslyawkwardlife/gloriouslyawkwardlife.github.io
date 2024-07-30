@@ -1,0 +1,16 @@
+---
+layout: post
+title: I Quit (but not this).
+date: 2024-07-30
+categories:
+  - Social Media
+  - Life Update
+---
+
+I took the rather drastic step yesterday of dropping just about *all* of my social media, leaving only this site and my [Mastodon](https://mastodon.social/@gloriouslyawkwardlife) account as my sole "official" public outlets (well, that and [Twitch](https://twitch.tv/gloriouslyawkwardlife)).
+
+I've been growing tired of the increasing divisive rhetoric and, in some cases, outright blocking of content that outlets such as Facebook, &c., have been doing. The last straw was pulling my archives and seeing just how many times Facebook and Instagram had suppressed or outright blocked posts and links that I've shared online. So, I downloaded all my data and deleted the accounts&mdash;Facebook, Instagram, Twitter, Google, Microsoft. 
+
+Ahh, simplicity. 
+
+I chose to keep Twitch because I do livestream from time to time. And this site, because I still want to write and share.
