@@ -24,7 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Christian, Power BI Developer, 3D Printer, Level 1 Autistic, Disney World Junkie.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://gloriouslyawkwardlife.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: gloriouslyawkwd
 github_username:  gloriouslyawkwardlife
 toplinks:
   - about
