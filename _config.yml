@@ -24,11 +24,22 @@ description: >- # this means to ignore newlines until "baseurl:"
   "God chose what is foolish in the world to shame the wise..." —1 Cor. 1:27
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gloriouslyawkwardlife.com" # the base hostname & protocol for your site, e.g. http://example.com
+disqus:
+  shortname: gloriously-awkward-life
+author:
+  name: Steven W. Buehler
+  email: steven@gloriouslyawkwardlife.com
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+minima:
+  social_links:
+  - { platform: mastodon, user_url: "https://mastodon.social/@gloriouslyawkward" }
+  - { platform: linkedin, user_url: "https://linkedin.com/in/stevenwbuehler" }
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
