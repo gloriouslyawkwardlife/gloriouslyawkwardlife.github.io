@@ -26,9 +26,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gloriouslyawkwardlife.com" # the base hostname & protocol for your site, e.g. http://example.com
 disqus:
   shortname: gloriously-awkward-life
-author:
-  name: Steven W. Buehler
-  email: steven@gloriouslyawkwardlife.com
 
 # Build settings
 theme: minima
