@@ -1,0 +1,10 @@
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap');
+
+html {
+    font-family: Cormorant, serif;
+}
+
+body {
+    font-family: Cormorant, serif;
+}
