@@ -21,9 +21,10 @@ United States
 <i class="fa-solid fa-envelope"></i> [`gloriouslyawkward@icloud.com`](mailto:gloriouslyawkward@icloud.com)  
 <i class="fa-solid fa-envelope"></i> [`steven@gloriouslyawkwardlife.com`](mailto:gloriouslyawkward@icloud.com)
 
-### If work-related (OptumRx/OWCA/Settlement)
+### If work-related (OptumRx/Optum Workers' Comp)
 
-<i class="fa-solid fa-envelope"></i> [`steven.buehler@optum.com`](mailto:steven.buehler@optum.com)
+<i class="fa-solid fa-envelope"></i> [`steven.buehler@optum.com`](mailto:steven.buehler@optum.com)  
+Optum Settlement Solutions was sold to [ExamWorks Compliance Solutions](https://www.examworkscompliance.com) in June 2023 and is no longer part of Optum Workers' Comp. Please direct Settlement Solutions issues there.
 
 ## Social Outlets
 
