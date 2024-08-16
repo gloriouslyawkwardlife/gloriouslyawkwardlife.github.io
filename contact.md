@@ -1,6 +1,6 @@
 ---
 title: Contact
-layout: default
+layout: page
 date: 2024-08-16T15:00:00-04:00
 ---
 
