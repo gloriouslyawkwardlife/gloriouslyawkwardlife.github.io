@@ -14,7 +14,7 @@ United States
 
 ## iPhone
 
-[+1 (813) 659-6567](tel:+18136596567)&mdash;Note, if you are not a recognized caller you will go straight to voicemail. Make sure you leave a detailed message if you need a call back. Voicemails that do not include the reason for the call are ignored.
+[+1 (813) 659-6567](tel:+18136596567)&mdash;Note, if you are not a recognized caller you will go straight to voicemail. Make sure you leave a detailed message if you need a call back. Voicemails that do not include who is calling and the reason for the call are ignored.
 
 ## Email
 
