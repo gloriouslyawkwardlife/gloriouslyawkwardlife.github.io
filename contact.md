@@ -16,18 +16,19 @@ United States
 
 ## Email
 
-- <i class="fa-solid fa-envelope"></i> [`gloriouslyawkward@icloud.com`](mailto:gloriouslyawkward@icloud.com)  
-- <i class="fa-solid fa-envelope"></i> [`steven@gloriouslyawkwardlife.com`](mailto:gloriouslyawkward@icloud.com)
+<i class="fa-solid fa-envelope"></i> [`gloriouslyawkward@icloud.com`](mailto:gloriouslyawkward@icloud.com)  
+<i class="fa-solid fa-envelope"></i> [`steven@gloriouslyawkwardlife.com`](mailto:gloriouslyawkward@icloud.com)
 
 ### If work-related (OptumRx/Optum Workers' Comp)
 
-<i class="fa-solid fa-envelope"></i> [`steven.buehler@optum.com`](mailto:steven.buehler@optum.com)  
+<i class="fa-solid fa-envelope"></i> [`steven.buehler@optum.com`](mailto:steven.buehler@optum.com)
+
 Optum Settlement Solutions was sold to [ExamWorks Compliance Solutions](https://www.examworkscompliance.com) in June 2023 and is no longer part of Optum Workers' Comp. Please direct Settlement Solutions issues there.
 
 ## Social Outlets
 
-- <i class="fa-brands fa-instagram"></i> [`https://instagram.com/gloriouslyawkwardlife`](https://instagram.com/gloriouslyawkwardlife)  
-- <i class="fa-brands fa-linkedin"></i> [`https://linkedin.com/in/stevenwbuehler`](https://linkedin.com/in/stevenwbuehler)  
-- <i class="fa-brands fa-mastodon"></i> [`https://mastodon.social/@gloriouslyawkward`](https://mastodon.social/@gloriouslyawkward), `@gloriouslyawkward@mastodon.social`  
-- <i class="fa-brands fa-twitter"></i> <i class="fa-brands fa-x-twitter"></i> [`https://x.com/@gloriouslyawkwd`](https://x.com/@gloriouslyawkward)  
-- <i class="fa-brands fa-twitch"></i> [`https://twitch.tv/gloriouslyawkwardlife`](https://twitch.tv/gloriouslyawkwardlife)  
+<i class="fa-brands fa-facebook"></i> [`https://facebook.com/gloriouslyawkwardlife`](https://facebook.com/gloriouslyawkwardlife)  
+<i class="fa-brands fa-instagram"></i> [`https://instagram.com/gloriouslyawkwardlife`](https://instagram.com/gloriouslyawkwardlife)  
+<i class="fa-brands fa-linkedin"></i> [`https://linkedin.com/in/stevenwbuehler`](https://linkedin.com/in/stevenwbuehler)  
+<i class="fa-brands fa-twitter"></i> <i class="fa-brands fa-x-twitter"></i> [`https://x.com/@gloriouslyawkwd`](https://x.com/@gloriouslyawkwd)  
+<i class="fa-brands fa-twitch"></i> [`https://twitch.tv/gloriouslyawkwardlife`](https://twitch.tv/gloriouslyawkwardlife)  
