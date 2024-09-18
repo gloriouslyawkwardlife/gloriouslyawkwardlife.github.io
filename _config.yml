@@ -23,7 +23,7 @@ email: steven@gloriouslyawkwardlife.com
 description: >- # this means to ignore newlines until "baseurl:"
   "God chose what is foolish in the world to shame the wise..." —1 Cor. 1:27
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gloriouslyawkwardlife.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://gloriouslyawkwardlife.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 disqus:
   shortname: gloriously-awkward-life
 
@@ -36,10 +36,13 @@ whitelist:
   - jekyll-redirect-from
 minima:
   social_links:
-  - { platform: mastodon, user_url: "https://mastodon.social/@gloriouslyawkward" }
   - { platform: linkedin, user_url: "https://linkedin.com/in/stevenwbuehler" }
-
-
+  - { platform: facebook, user_url: "https://facebook.com/gloriouslyawkwardllife" }
+  - { platform: instagram, user_url: "https://instagram.com/gloriouslyawkwardlife" }
+  - { platform: twitter, user_url: "https://twitter.com/@gloriouslyawkwd" }
+  - { platform: threads, user_url: "https://threads.net/@gloriouslyawkwardlife" }
+  - { platform: twitch, user_url: "https://twitch.tv/gloriouslyawkwardlife" }
+  - { platform: youtube, user_url: "https://youtube.com/@gloriouslyawkwardlife" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.
