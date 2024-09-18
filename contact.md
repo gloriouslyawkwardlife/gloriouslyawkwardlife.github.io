@@ -26,7 +26,7 @@ Optum Settlement Solutions was sold to [ExamWorks Compliance Solutions](https://
 
 ## Social Outlets
 
-- <i class="fa-brands fa-instagram"></i> [`https://instagram.com/gloriouslyawkwardlife](https://instagram.com/gloriouslyawkwardlife)  
+- <i class="fa-brands fa-instagram"></i> [`https://instagram.com/gloriouslyawkwardlife`](https://instagram.com/gloriouslyawkwardlife)  
 - <i class="fa-brands fa-linkedin"></i> [`https://linkedin.com/in/stevenwbuehler`](https://linkedin.com/in/stevenwbuehler)  
 - <i class="fa-brands fa-mastodon"></i> [`https://mastodon.social/@gloriouslyawkward`](https://mastodon.social/@gloriouslyawkward), `@gloriouslyawkward@mastodon.social`  
 - <i class="fa-brands fa-twitter"></i> <i class="fa-brands fa-x-twitter"></i> [`https://x.com/@gloriouslyawkwd`](https://x.com/@gloriouslyawkward)  
