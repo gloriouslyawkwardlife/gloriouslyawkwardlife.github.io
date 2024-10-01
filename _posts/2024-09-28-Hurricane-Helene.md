@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Hurricane Helene
 date: 2024-09-28
 author: Steven Buehler
