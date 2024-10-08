@@ -31,7 +31,7 @@ Tropical weather is typically reported using nautical terms like *knots* and *na
 |------|:-------:|:-------:|:-----:|
 | Tropical Depression | &le;33 | &le;38 | &le;61 |
 | Tropical Storm* | 34–63 | 39–73 | 63&ndash;118 |
-| Category 1 Hurricane | 64–82 | 74–95 | 119–153 | 61
+| Category 1 Hurricane | 64–82 | 74–95 | 119–153 |
 | Category 2 Hurricane | 83–95 | 96–110 | 154–177 |
 | Category 3 Hurricane | 96&ndash;112 | 111&ndash;129 | 178&ndash;208 |
 | Category 4 Hurricane | 113&ndash;136 | 130&ndash;156 | 209&ndash;251 |
