@@ -19,7 +19,7 @@ This image is generated from KML files provided by the <a href="https://www.nhc.
    as the center of the storm can go anywhere within the cone.*
 
  - The colored areas around each point are the anticipated wind fields for each quadrant of the storm at that point in the forecast. The colors
-   represent sustained winds of at least **34 knots** (39 mph or 63 km/hr)in yellow, **50 knots** (58 mph or 94 km/hr) in red, and **64 knots** (74 mph or 119 km/hr) in dark red. These are *sustained* wind speeds; wind *gusts* can be signficantly higher.
+   represent sustained winds of at least **34 knots** (39 mph or 63 km/hr) in yellow, **50 knots** (58 mph or 94 km/hr) in red, and **64 knots** (74 mph or 119 km/hr) in dark red. These are *sustained* wind speeds; wind *gusts* can be signficantly higher.
    
  - The blue marker in the middle of the state is my location about 12 miles/19.31 km south of Clermont, Florida.
 
