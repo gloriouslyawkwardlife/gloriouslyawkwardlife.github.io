@@ -5,6 +5,8 @@ layout: page
 author: Steven Buehler
 ---
 
+**Update 9 Oct 2024 @ 8:30 PM:** <https://twitch.tv/gloriouslyawkwardlife> is currently streaming the balcony cam with weather radar for as long as there is power and connectivity.
+
 <h2>Detailed Graphic</h2>
 
 <p align="center">
