@@ -8,15 +8,21 @@ These charts and maps are generated daily using the [Wolfram Language](https://w
 
 ## Daily Health Metrics
 
+Generated from Apple Health data.
+
 <img src="https://www.wolframcloud.com/obj/queuegulper0j/dailyhrchart.png">
 <img src="https://wolframcloud.com/obj/queuegulper0j/dailystepchart.png">
 <img src="https://www.wolframcloud.com/obj/queuegulper0j/dailystepcount.png">
 
 ## Check-In Map
 
+Generated from check-ins using the Foursquare [Swarm](https://www.swarmapp.com) App.
+
 <img src="https://www.wolframcloud.com/obj/queuegulper0j/dailyswarmchart.png">
 
 ## Daily Weather
+
+Generated from data collected by Wolfram.
 
 <img src="https://www.wolframcloud.com/obj/queuegulper0j/dailytemperaturelog.png">
 <img src="https://www.wolframcloud.com/obj/queuegulper0j/dailyhumidity.png">
