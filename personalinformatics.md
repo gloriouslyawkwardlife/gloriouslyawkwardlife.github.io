@@ -4,7 +4,7 @@ date: 2024-10-11
 layout: page
 ---
 
-These charts and maps are generated daily using the [Wolfram Language](https://www.wolfram.com/language)
+These charts and maps are generated daily using the [Wolfram Language](https://www.wolfram.com/language).
 
 ## Daily Health Metrics
 
