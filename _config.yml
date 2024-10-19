@@ -23,3 +23,6 @@ minima:
   - { platform: threads, user_url: "https://threads.net/@gloriouslyawkwardlife" }
   - { platform: twitch, user_url: "https://twitch.tv/gloriouslyawkwardlife" }
   - { platform: youtube, user_url: "https://youtube.com/@gloriouslyawkwardlife" }
+mapping:
+  provider: openstreetmap
+  
