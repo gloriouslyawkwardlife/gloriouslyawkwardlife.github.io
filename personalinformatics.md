@@ -19,8 +19,11 @@ Generated from exported [Apple Health](https://www.apple.com/health/) data.
 
 Generated from check-ins using the Foursquare [Swarm](https://www.swarmapp.com) app and [Bouncie](https://www.bouncie.com) vehicle logging hardware and app.
 
-<img style="padding: 15px" src="https://www.wolframcloud.com/obj/queuegulper0j/checkinmap.png">
-<img style="padding: 15px" src="https://www.wolframcloud.com/obj/queuegulper0j/drivingmap.png">
+<div style="text-align: center">
+<img style="padding: 15px" src="https://www.wolframcloud.com/obj/queuegulper0j/checkinmap.png"><br/>
+<img style="padding: 15px" src="https://www.wolframcloud.com/obj/queuegulper0j/drivingmap.png"><br/>
+<img style="padding: 15px" src="/personalinformatics/dailylocator.svg">
+</div>
 
 ## Daily Weather Log
 
