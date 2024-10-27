@@ -5,6 +5,14 @@ author: Steven Buehler
 layout: page
 ---
 
-Data is imported into a [MariaDB](https://mariadb.org) database running on a [Raspberry Pi](https://www.raspberrypi.com) 4 single-board computer. [Wolfram Language](https://www.wolfram.com/language) is used to generate and store the below charts and maps.
+Data is imported into a [MariaDB](https://mariadb.org) database running on a [Raspberry Pi](https://www.raspberrypi.com) 4 single-board computer. Google Apps Script is used to generate the below charts.
 
-<iframe src="https://www.wolframcloud.com/obj/queuegulper0j/DailyLog.nb?_embed=iframe" width="600" height="800"></iframe>
+<div style="text-align: center">
+
+![Intraday Heart Rate](https://storage.googleapis.com/steven-buehler-data/heartrate.png)
+![Intraday Step Count](https://storage.googleapis.com/steven-buehler-data/stepcountintraday.png)
+![30-Day Step Count](https://storage.googleapis.com/steven-buehler-data/stepcount30days.png)
+![Yesterday's Swarm Checkins](https://storage.googleapis.com/steven-buehler-data/checkins.png)
+![Yesterday's Drives](https://storage.googleapis.com/steven-buehler-data/drives.png)
+
+</div>

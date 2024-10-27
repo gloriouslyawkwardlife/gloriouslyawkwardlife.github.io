@@ -3,7 +3,7 @@ email: steven@gloriouslyawkwardlife.com
 description: >- # this means to ignore newlines until "baseurl:"
   "God chose what is foolish in the world to shame the wise..." —1 Cor. 1:27
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gloriouslyawkwardlife.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://gloriouslyawkward.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 disqus:
   shortname: gloriously-awkward-life
 
