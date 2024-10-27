@@ -5,18 +5,4 @@ author: Steven Buehler
 layout: page
 ---
 
-Data is imported into a [MariaDB](https://mariadb.org) database running on a [Raspberry Pi](https://www.raspberrypi.com) 4 single-board computer. Google Apps Script is used to generate the below charts.
-
-<div style="text-align: center">
-
-<img src="https://storage.googleapis.com/steven-buehler-data/heartrate.png"/>
-
-<img src="https://storage.googleapis.com/steven-buehler-data/stepcountintraday.png"/>
-
-<img src="https://storage.googleapis.com/steven-buehler-data/stepcount30days.png"/>
-
-<img src="https://storage.googleapis.com/steven-buehler-data/checkins.png"/>
-
-<img src="https://storage.googleapis.com/steven-buehler-data/drives.png"/>
-
-</div>
+*As of 27 October 2024, I've started creating the daily metrics as unique daily pages that you can now access from the [main page](/).*
