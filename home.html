@@ -16,7 +16,8 @@ layout: base
     {% assign posts = site.posts %}
   {% endif %}
 
-
+  <table width="100%" border="0">
+<tr><td width="75%">
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
@@ -57,5 +58,12 @@ layout: base
     {%- endif %}
 
   {%- endif -%}
-
-</div>
+    </td>
+  <td align="right">
+    <h2 align="left">Personal Informatics</h2>
+    <embed type="image/png" src="https://storage.googleapis.com/steven-buehler-data/latest_checkin.png"><br/>
+    <embed type="text/html" src="https://storage.googleapis.com/steven-buehler-data/checkintext.html" width="100%" align="right">
+  </td>
+</tr>
+</table>
+  </div>
