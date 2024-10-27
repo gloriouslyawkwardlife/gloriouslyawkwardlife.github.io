@@ -10,9 +10,13 @@ Data is imported into a [MariaDB](https://mariadb.org) database running on a [Ra
 <div style="text-align: center">
 
 ![Intraday Heart Rate](https://storage.googleapis.com/steven-buehler-data/heartrate.png)
+
 ![Intraday Step Count](https://storage.googleapis.com/steven-buehler-data/stepcountintraday.png)
+
 ![30-Day Step Count](https://storage.googleapis.com/steven-buehler-data/stepcount30days.png)
+
 ![Yesterday's Swarm Checkins](https://storage.googleapis.com/steven-buehler-data/checkins.png)
+
 ![Yesterday's Drives](https://storage.googleapis.com/steven-buehler-data/drives.png)
 
 </div>
