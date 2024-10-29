@@ -21,7 +21,7 @@ user:
   name: Steven Buehler
   pic: /assets/img/cat.jpg
   picAlt: "catbook"
-  job: a category-centric theme
+  job: <em>gloriously</em> awkward.
   #aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
