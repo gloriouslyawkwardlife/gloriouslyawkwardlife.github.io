@@ -1,28 +1,47 @@
-title: Gloriously Awkward Life
-email: steven@gloriouslyawkwardlife.com
-description: >- # this means to ignore newlines until "baseurl:"
-  "God chose what is foolish in the world to shame the wise..." —1 Cor. 1:27
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gloriouslyawkward.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-disqus:
-  shortname: gloriously-awkward-life
 
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-redirect-from
-whitelist:
-  - jekyll-redirect-from
-minima:
-  social_links:
-  - { platform: linkedin, user_url: "https://linkedin.com/in/stevenwbuehler" }
-  - { platform: facebook, user_url: "https://facebook.com/gloriouslyawkwardllife" }
-  - { platform: instagram, user_url: "https://instagram.com/gloriouslyawkwardlife" }
-  - { platform: twitter, user_url: "https://twitter.com/@gloriouslyawkwd" }
-  - { platform: threads, user_url: "https://threads.net/@gloriouslyawkwardlife" }
-  - { platform: twitch, user_url: "https://twitch.tv/gloriouslyawkwardlife" }
-  - { platform: youtube, user_url: "https://youtube.com/@gloriouslyawkwardlife" }
-mapping:
-  provider: openstreetmap
-  
+title: gloriously awkward life #Your awesome title
+email: gloriouslyawkward@icloud.com #youremail@domain.com
+description: > # this means to ignore newlines until "baseurl"
+  Neurodivergent 50-something with Disney and data addictions.
+
+baseurl: # the subpath of the site
+url: http://gloriouslyawkwardlife.com # the base hostname & protocol for your site
+
+permalink: /:year-:month/:title
+timezone: America/New_York
+
+favicon: /assets/img/favicon.ico
+
+google_analytics: G-HVJEFT95WR #UA—XXXXXXXX-X
+disqus_shortname: gloriouslyawkward #disqus shortname
+cusdis:
+    app_id: #your cusdis app_id
+
+# user:
+#   name: Steven Buehler
+#   pic: /assets/img/cat.jpg
+#   picAlt: "catbook"
+#   aboutme: true # comment this out if you don't need the 'about' page.
+#   job: a category-centric theme
+
+exclude:
+  - README.md
+  - LICENSE
+  - github
+
+defaults:
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      comment: true   
+
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+markdown: kramdown 
+
+# Filtering Content
+show_drafts: null
+limit_posts: 0
+future:      false
+unpublished: false
