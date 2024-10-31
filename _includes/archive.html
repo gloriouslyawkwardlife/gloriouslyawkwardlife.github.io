@@ -7,7 +7,7 @@
     {% if post.url %}
     <li>
         <time class='archive_date' datetime='{{ post.date | date_to_xmlschema }}'>
-          {{ post.date | in_time_zone: "America/New_York" |date: "%b %-d, %Y, %-I:%M %p" }}
+          {{ post.date | in_time_zone: "America/New_York" | date: "%b %-d, %Y, %-I:%M %p %Z" }}
         </time>
         <div class='archive_title'>
           <a href='{{ post.url | relative_url }}'>
@@ -38,7 +38,7 @@
   <ul>
     <li>
       <time class='archive_date' datetime='{{ post.date | date_to_xmlschema }}'>
-        {{ post.date | in_time_zone: "America/New_York" | date: "%b %-d, %-I:%M %p" }}
+        {{ post.date | in_time_zone: "America/New_York" | date: "%b %-d, %-I:%M %p %Z" }}
       </time>
       <div class='archive_title'>
         <a href='{{ post.url | relative_url }}'>
