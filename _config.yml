@@ -8,7 +8,7 @@ baseurl: # the subpath of the site
 url: http://gloriouslyawkwardlife.com # the base hostname & protocol for your site
 
 permalink: /:year-:month/:title
-timezone:
+timezone: America/New_York
 
 favicon: /assets/img/favicon.ico
 
