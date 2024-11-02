@@ -1,4 +1,7 @@
 <nav class="mobile_menu">
+  <p>&nbsp;</p>
+  <p>There's a lot here! Highly recommend you choose a category!</p>
+  <p>&nbsp;</p>
 
   <ul class="nav_list">
     {% if site.user.aboutme %}
@@ -6,9 +9,6 @@
       <a href="{{ site.baseurl }}/aboutme.html">about</a>
     </li>
     {% endif %}
-    <p>&nbsp;</p>
-    <p>(Highly Recommend!) Choose a category:</p>
-    <p>nbsp;</p>
     {% for category in site.categories %}
     {% capture cat_name %}{{ category | first }}{% endcapture %}
 
