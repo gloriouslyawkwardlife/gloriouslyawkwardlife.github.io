@@ -9,5 +9,7 @@ data:
 - [Bouncie](https://bouncie.com) Vehicle Tracking: 14 Apr 2023
 - [Overland](https://overland.p3k.com): Still integrating; battery life could be a concern.
 
+**There's a lot here!** Highly recommend you choose a category from the left-hand category list to narrow it down! —S.B.
+
 {% include archive.html %}
 
