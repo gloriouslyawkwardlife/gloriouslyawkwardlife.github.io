@@ -1,19 +1,19 @@
 
 title: gloriously awkward life #Your awesome title
-email: steven@gloriouslyawkwardlife.com #youremail@domain.com
+email: gloriouslyawkward@icloud.com #youremail@domain.com
 description: > # this means to ignore newlines until "baseurl"
   Neurodivergent Christian 50-something with a Disney addiction.
 
 baseurl: # the subpath of the site
 url: http://gloriouslyawkwardlife.com # the base hostname & protocol for your site
 
-permalink: /:year-:month/:title
+permalink: /:year-:month-:day/:title
 timezone: America/New_York
 
 favicon: /assets/img/favicon.ico
 
-google_analytics: #UA—XXXXXXXX-X
-disqus_shortname: #disqus shortname
+google_analytics: G-HVJEFT95WR
+disqus_shortname: gloriously-awkward-life
 cusdis:
     app_id: #your cusdis app_id
 
@@ -22,7 +22,7 @@ user:
   pic: /assets/img/cat.jpg
   picAlt: "catbook"
   job: <em>gloriously</em> awkward.
-  aboutme: true # comment this out if you don't need the 'about' page.
+  # aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
   - README.md
