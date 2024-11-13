@@ -13,10 +13,6 @@ toc: true
 <ul>
 <li><p><a href="https://apple.com/macbook-air">M3 MacBook Air</a> - 16 GB RAM, 512 GB internal storage, and a bunch of external drives (including a pair of two-terabyte ones).</p>
 </li>
-<li><p><a href="https://apple.com/mac-mini">M2 Pro Mac mini</a> - Also 16 GB RAM, 512 GB internal storage. I use this mainly as a backup server now until it's paid off.</p>
-</li>
-<li><p><a href="https://www.raspberrypi.com">Raspberry Pi</a> 4 Model B single-board computer - 4 GB RAM, running MariaDB database and Apache 2 web server on a 256 GB SD Card. Planning on upgrading this to an 8-gig RPi 5 soon so I can hook up an actual drive.</p>
-</li>
 <li><p>HP ZBook Firefly G8 - i7 vPro, 32 GB RAM, 512 GB SSD; exclusively for work (because my employer provides it).</p>
 </li>
 <li><p><a href="https://www.amazon.com/gp/product/B08ZT31QCN/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;psc=1">ViewSonic OMNI VX3418-2KPC</a> 34-inch Ultrawide Curved 1440p 1ms 144Hz Gaming Monitor with Adaptive Sync, Eye Care, 2 &times; HDMI and 2 &times; DisplayPort. I switched from a dual-monitor setup to an ultra-wide and never looked back.</p>
@@ -93,7 +89,7 @@ toc: true
 </ul>
 <h2>Cameras &amp; Audio</h2>
 <ul>
-<li><p><a href="https://www.insta360.com">Insta360 X3</a> 360&deg; action camera with quick-release connection that works with both $\frac{1}{4}$-inch screw mount <em>and</em> Go-Pro-style fork mounts.</p>
+<li><p><a href="https://www.insta360.com">Insta360 X3</a> 360&deg; action camera with quick-release connection that works with both &frac14;-inch screw mount <em>and</em> Go-Pro-style fork mounts.</p>
 </li>
 <li><p><a href="https://www.apple.com/iphone">iPhone 16 Pro Max</a> - Because the best camera is the one you have on you.</p>
 </li>
@@ -105,6 +101,11 @@ toc: true
 </li>
 </ul>
 
+<h2>Graveyard</h2>
+<li><p><a href="https://apple.com/mac-mini">M2 Pro Mac mini</a> - Also 16 GB RAM, 512 GB internal storage. <s>I use this mainly as a backup server now until it's paid off.</s> I shut it down not too long ago.</p>
+</li>
+<li><p><a href="https://www.raspberrypi.com">Raspberry Pi</a> 4 Model B single-board computer - 4 GB RAM, running MariaDB database and Apache 2 web server on a 256 GB SD Card. <s>Planning on upgrading this to an 8-gig RPi 5 soon so I can hook up an actual drive.</s> Decided to shut it down in favor of SQLite on the laptop for databases.</p>
+</li>
 
 </div>
 </section>
