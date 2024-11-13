@@ -6,6 +6,10 @@ date: 2024-11-11T19:00:00-04:00
 toc: true
 ---
 
+<section class="aboutme">
+    <div class="post_content">
+
+
 ## Computing
 
 - [M3 MacBook Air](https://apple.com/macbook-air) - 16 GB RAM, 512 GB internal storage, and a bunch of external drives (including a pair of two-terabyte ones).
@@ -97,3 +101,6 @@ I tried "plain-text accounting" with `ledger-cli`, `hledger`, and `beancounter` 
 - [Sony ICD-UX570](https://a.co/d/0xaTTxC) Digital Voice Recorder - While I definitely rely more on the iPhone for voice recording, this includes a 3.5 mm stereo input jack for directly digitizing line sources (like old LP records) with bookmarking and auto-volume leveling and can record to Micro SD.
 
 - Record players (ol' fashioned vinyl) - I have an [Audio Technica AT-LP60BT](https://www.audio-technica.com/en-us/turntables/all/at-lp60xbt-usb) for regular listening and a [Numark PT01 USB](https://www.numark.com/product/pt01usb) "vinyl-archiving turntable" for digitizing audio LPs and portable use. The Numark is one of the few that offer 78 RPM playback for those old ten-inch shellac albums from the 1920s and '30s (I have a collection of the Dorsey Brothers from that era), and it can run on four "D" batteries for portable use as well.
+
+</div>
+</section>
