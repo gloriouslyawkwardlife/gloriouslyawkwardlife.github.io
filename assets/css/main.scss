@@ -16,7 +16,8 @@ td, th {
     text-align: left;
     vertical-align: top;
     font-family: 'Fira Sans Extra Condensed', 'Arial Narrow', 'Helvetica Narrow';
-    font-size: x-small;
+    font-size: smaller;
+    line-height: normal;
 }
 
 tr:nth-child(even) {
