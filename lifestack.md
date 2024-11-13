@@ -102,10 +102,12 @@ toc: true
 </ul>
 
 <h2>Graveyard</h2>
+<ul>
 <li><p><a href="https://apple.com/mac-mini">M2 Pro Mac mini</a> - Also 16 GB RAM, 512 GB internal storage. <s>I use this mainly as a backup server now until it's paid off.</s> I shut it down not too long ago.</p>
 </li>
 <li><p><a href="https://www.raspberrypi.com">Raspberry Pi</a> 4 Model B single-board computer - 4 GB RAM, running MariaDB database and Apache 2 web server on a 256 GB SD Card. <s>Planning on upgrading this to an 8-gig RPi 5 soon so I can hook up an actual drive.</s> Decided to shut it down in favor of SQLite on the laptop for databases.</p>
 </li>
+</ul>
 
 </div>
 </section>
